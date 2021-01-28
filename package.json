@@ -1,0 +1,19 @@
+{
+  "name": "budgetprogress",
+  "version": "1.0.0",
+  "description": "bootcamp assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farrah-solve/BudgetProgress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farrah-solve/BudgetProgress/issues"
+  },
+  "homepage": "https://github.com/Farrah-solve/BudgetProgress#readme"
+}
